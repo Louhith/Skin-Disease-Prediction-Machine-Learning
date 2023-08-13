@@ -18,8 +18,6 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 Contact
 For questions or discussions, feel free to open an issue on this repository.
 
-Adjust the placeholders, links, and sections as needed to match the specifics of your project. Adding clear and concise explanations, along with appropriate visual elements, can make your GitHub repository more engaging and informative for visitors.
-
 
 
 
