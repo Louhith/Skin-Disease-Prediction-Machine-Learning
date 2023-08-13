@@ -12,9 +12,6 @@ Supports easy customization and extension for other medical image classification
 Contributions
 Contributions to this project are welcome! Whether you're suggesting improvements, reporting issues, or proposing new features, your input is valuable. Please refer to the Contribution Guidelines for details on how to get involved.
 
-License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
-
 Contact
 For questions or discussions, feel free to open an issue on this repository.
 
