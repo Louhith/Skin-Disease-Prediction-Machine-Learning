@@ -8,6 +8,7 @@ Features
  - Provides data preprocessing and augmentation pipelines for enhancing model performance.
  - Demonstrates the use of transfer learning with pretrained CNN architectures (like VGG16).
  - Supports easy customization and extension for other medical image classification tasks.
+ - Added a new Alex Net CNN model to compare the accuracy with the previous models.
 
 Contributions
 Contributions to this project are welcome! Whether you're suggesting improvements, reporting issues, or proposing new features, your input is valuable. Please refer to the Contribution Guidelines for details on how to get involved.
